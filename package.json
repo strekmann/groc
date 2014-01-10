@@ -34,7 +34,7 @@
     "glob": "~3.2.7",
     "jade": "~0.35.0",
     "optimist": "~0.6.0",
-    "showdown": "~0.3.1",
+    "marked": "~0.2.10",
     "spate": "~0.1.0",
     "uglify-js": "~2.4.6",
     "underscore": "~1.5.2",
